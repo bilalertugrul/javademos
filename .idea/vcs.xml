@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Classes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Day3HomeWork1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/arkadasSayi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/classesWithAttributes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/conditional" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/forDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/helloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inheritance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inheritanceDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/karakterProje" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methodOverload" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/methods2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/miniAsalProje" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mukemmelSayi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multiDimensionalArrayDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reCapDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sayiArama" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/strinArrayDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/stringMethods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/switchDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/variables" vcs="Git" />
+  </component>
+</project>
